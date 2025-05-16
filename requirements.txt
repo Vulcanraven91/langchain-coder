@@ -8,3 +8,4 @@ openai
 python-dotenv
 vertexai
 google-generativeai
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
